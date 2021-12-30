@@ -1,0 +1,417 @@
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\appsettings.json
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\ApiParcial.exe
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\ApiParcial.deps.json
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\ApiParcial.runtimeconfig.json
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\ApiParcial.runtimeconfig.dev.json
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\ApiParcial.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\ref\ApiParcial.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\ApiParcial.pdb
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Humanizer.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santi\ApiParcial\obj\Debug\net5.0\ApiParcial.csproj.AssemblyReference.cache
+C:\Users\santi\ApiParcial\obj\Debug\net5.0\ApiParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\ApiParcial\obj\Debug\net5.0\ApiParcial.AssemblyInfoInputs.cache
+C:\Users\santi\ApiParcial\obj\Debug\net5.0\ApiParcial.AssemblyInfo.cs
+C:\Users\santi\ApiParcial\obj\Debug\net5.0\ApiParcial.csproj.CoreCompileInputs.cache
+C:\Users\santi\ApiParcial\obj\Debug\net5.0\ApiParcial.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\santi\ApiParcial\obj\Debug\net5.0\ApiParcial.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santi\ApiParcial\obj\Debug\net5.0\staticwebassets\ApiParcial.StaticWebAssets.Manifest.cache
+C:\Users\santi\ApiParcial\obj\Debug\net5.0\staticwebassets\ApiParcial.StaticWebAssets.xml
+C:\Users\santi\ApiParcial\obj\Debug\net5.0\scopedcss\bundle\ApiParcial.styles.css
+C:\Users\santi\ApiParcial\obj\Debug\net5.0\ApiParcial.RazorTargetAssemblyInfo.cache
+C:\Users\santi\ApiParcial\obj\Debug\net5.0\ApiParcial.dll
+C:\Users\santi\ApiParcial\obj\Debug\net5.0\ref\ApiParcial.dll
+C:\Users\santi\ApiParcial\obj\Debug\net5.0\ApiParcial.pdb
+C:\Users\santi\ApiParcial\obj\Debug\net5.0\ApiParcial.genruntimeconfig.cache
+C:\Users\santi\ApiParcial\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\appsettings.json
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\ApiParcial.exe
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\ApiParcial.deps.json
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\ApiParcial.runtimeconfig.json
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\ApiParcial.runtimeconfig.dev.json
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\ApiParcial.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\ref\ApiParcial.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\ApiParcial.pdb
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Humanizer.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\obj\Debug\net5.0\ApiParcial.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\obj\Debug\net5.0\ApiParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\obj\Debug\net5.0\ApiParcial.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\obj\Debug\net5.0\ApiParcial.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\obj\Debug\net5.0\ApiParcial.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\obj\Debug\net5.0\ApiParcial.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\obj\Debug\net5.0\ApiParcial.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\obj\Debug\net5.0\staticwebassets\ApiParcial.StaticWebAssets.Manifest.cache
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\obj\Debug\net5.0\staticwebassets\ApiParcial.StaticWebAssets.xml
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\obj\Debug\net5.0\scopedcss\bundle\ApiParcial.styles.css
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\obj\Debug\net5.0\ApiParcial.RazorTargetAssemblyInfo.cache
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\obj\Debug\net5.0\ApiParcial.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\obj\Debug\net5.0\ref\ApiParcial.dll
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\obj\Debug\net5.0\ApiParcial.pdb
+C:\Users\santi\OneDrive\Escritorio\ApiParcial\obj\Debug\net5.0\ApiParcial.genruntimeconfig.cache
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\appsettings.Development.json
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\appsettings.json
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\ApiParcial.exe
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\ApiParcial.deps.json
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\ApiParcial.runtimeconfig.json
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\ApiParcial.runtimeconfig.dev.json
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\ApiParcial.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\ref\ApiParcial.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\ApiParcial.pdb
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Humanizer.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\obj\Debug\net5.0\ApiParcial.csproj.AssemblyReference.cache
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\obj\Debug\net5.0\ApiParcial.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\obj\Debug\net5.0\ApiParcial.AssemblyInfoInputs.cache
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\obj\Debug\net5.0\ApiParcial.AssemblyInfo.cs
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\obj\Debug\net5.0\ApiParcial.csproj.CoreCompileInputs.cache
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\obj\Debug\net5.0\ApiParcial.MvcApplicationPartsAssemblyInfo.cs
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\obj\Debug\net5.0\ApiParcial.MvcApplicationPartsAssemblyInfo.cache
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\obj\Debug\net5.0\staticwebassets\ApiParcial.StaticWebAssets.Manifest.cache
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\obj\Debug\net5.0\staticwebassets\ApiParcial.StaticWebAssets.xml
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\obj\Debug\net5.0\scopedcss\bundle\ApiParcial.styles.css
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\obj\Debug\net5.0\ApiParcial.RazorTargetAssemblyInfo.cache
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\obj\Debug\net5.0\ApiParcial.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\obj\Debug\net5.0\ref\ApiParcial.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\obj\Debug\net5.0\ApiParcial.pdb
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\obj\Debug\net5.0\ApiParcial.genruntimeconfig.cache
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\NPOI.OOXML.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\NPOI.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.Dynamic.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.Scripting.Metadata.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.Scripting.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\System.CodeDom.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ISTEA\Istea 2021\Cuatrimestre 3\Programacion web\proyectos\Parcial 1 Original\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
